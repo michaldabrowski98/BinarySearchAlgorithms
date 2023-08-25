@@ -1,0 +1,17 @@
+{
+    "name": "michal/binary-search-tree-algorithms",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Michal\\BinarySearchTreeAlgorithms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "michaldabrowski98",
+            "email": "mdboxman@gmail.com"
+        }
+    ],
+    "require": {}
+}
